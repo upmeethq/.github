@@ -7,4 +7,6 @@ MakerAI is an app that has AI tools like:
 - Turing short paragraphs into long paragraphs
 and a lot more planned!
 
-### **All with JavaScript**
+## Web Hosting...
+
+Powered by Netlify (Web Hosting). [Go to Netlify](https://netlify.com)
